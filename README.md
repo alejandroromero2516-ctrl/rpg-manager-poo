@@ -1,30 +1,27 @@
 # RPG Manager - Proyecto POO
 
-Proyecto de Programacion Orientada a Objetos (POO) desarrollado en Python y Java.
-Incluye los 9 retos del RPG Manager: encapsulamiento, herencia, constructores,
-sobrescritura, sobrecarga, clases abstractas, interfaces, composicion/agregacion/
-asociacion e integrador (arena de combate).
+Proyecto de Programacion Orientada a Objetos hecho en Python y Java.
+Incluye todos los retos del RPG Manager: personaje, herencia, sobrescritura,
+sobrecarga, clases abstractas, interfaces, composicion y arena de combate.
 
-## Estructura
+## Como ejecutar
 
-- `herencia/python/`: implementacion en Python.
-- `herencia/java/`: implementacion en Java.
-
-## Ejecutar Python
-
+Python:
 ```bash
 cd herencia/python
 python main.py
 ```
 
-## Ejecutar Java
-
+Java:
 ```bash
 cd herencia/java
 javac -d out src/main/java/rpgmanager/*.java
 java -cp out rpgmanager.Principal
 ```
 
-## Retos cubiertos
+## Archivos principales
 
-Reto 0 a Reto 8, segun la ruta del tutor (Gema de Gemini).
+- `herencia/python/`: codigo en Python.
+- `herencia/java/`: codigo en Java.
+- `herencia/reflexion.md`: reflexion conceptual.
+- `herencia/python/salida_python.txt` y `herencia/java/salida_java.txt`: salida de ejecucion.

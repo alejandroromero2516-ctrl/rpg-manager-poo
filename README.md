@@ -4,6 +4,8 @@ Proyecto de Programacion Orientada a Objetos hecho en Python y Java.
 Incluye todos los retos del RPG Manager: personaje, herencia, sobrescritura,
 sobrecarga, clases abstractas, interfaces, composicion y arena de combate.
 
+La cobertura completa de la gema esta en `COBERTURA_GEMA.md`.
+
 ## Como ejecutar
 
 Python:

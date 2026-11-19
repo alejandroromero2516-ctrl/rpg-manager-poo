@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public abstract class Personaje implements Combatiente {
     protected String nombre;
     protected int nivel;

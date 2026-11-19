@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class Item {
     private String nombre;
     private String tipo;

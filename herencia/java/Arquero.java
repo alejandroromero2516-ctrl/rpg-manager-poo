@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class Arquero extends Personaje {
     private int flechas;
     private int precision;

@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class ArenaCombate {
     private Combatiente c1;
     private Combatiente c2;

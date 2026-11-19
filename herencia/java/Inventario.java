@@ -1,5 +1,3 @@
-package rpgmanager;
-
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class Mago extends Personaje {
     private int mana;
     private int manaMaximo;

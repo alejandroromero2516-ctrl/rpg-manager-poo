@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class Guerrero extends Personaje {
     private int fuerza;
     private int armadura;

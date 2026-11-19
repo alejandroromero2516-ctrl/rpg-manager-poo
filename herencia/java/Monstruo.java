@@ -1,5 +1,3 @@
-package rpgmanager;
-
 public class Monstruo implements Combatiente {
     private String nombre;
     private int vidaMaxima;
